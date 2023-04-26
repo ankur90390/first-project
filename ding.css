@@ -1,0 +1,16 @@
+
+#main {
+    height: 100rem;
+    
+    background-color: rgb(230, 207, 230);
+}
+/* #part1{
+    height: 100%;
+    width: 50%;
+    background-color: sienna; */
+}
+
+body{
+    height: 100%;
+    width: 100%;
+}
